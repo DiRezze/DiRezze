@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiRezze
+- 👀 I’m interested in introduce myselft into programing
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: he/his
