@@ -1,8 +1,7 @@
 ## 👋 Hello, I'm @DiRezze, a newbie front-end developer from Brazil!
 
 <div align="center">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=DiRezze&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="DiRezze's Stats" />
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiRezze&theme=nord&show_icons=true&hide_border=false&layout=compact" alt="DiRezze's Languages" />
+  <img height="160em" width="340em" src="https://github-readme-stats.vercel.app/api?username=DiRezze&theme=nord&show_icons=false&hide_border=false&count_private=true" alt="DiRezze's Stats" />
 </div>
 
 <div align="center">
