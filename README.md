@@ -1,6 +1,8 @@
 ## 👋 Hey, I'm DiRezze, a newbie developer from Brazil!
 
+
 <div align="center">
+  <img height="120" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47ee2stg3j2zbig32o4poodpesxw4904m0qwstgxej&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiRezze&theme=nord&show_icons=true&count_private=true&hide_border=true&title_color=1795cc&icon_color=1795cc&text_color=c9d1d9&bg_color=0d1117" alt="DiRezze's Github Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiRezze&theme=nord&show_icons=false&count_private=true&hide_border=true&title_color=1795cc&icon_color=1795cc&text_color=c9d1d9&bg_color=0d1117&show_icons=true&layout=compact" alt="DiRezze's Lang Stats" />
  
