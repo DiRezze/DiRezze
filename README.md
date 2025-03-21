@@ -20,11 +20,4 @@
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
 </div>
 
-<div align="center" style="display:inline_block;">
-
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DiRezze&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 </div>
