@@ -21,7 +21,10 @@
 </div>
 
 <div align="center" style="display:inline_block;">
+
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=DiRezze&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 
 </div>
