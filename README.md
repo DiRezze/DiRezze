@@ -15,8 +15,6 @@
 
 <div align="center">
 
----
-
   
 ### My Languages and Tools
 
