@@ -10,12 +10,13 @@
     <img src="https://i.imgflip.com/9wm6h8.gif" height="180" />
   </div>
   
+  <!-- NOVO: Gráfico de atividades -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiRezze&theme=nord&hide_border=true&area=true&bg_color=0d1117&color=1795cc&line=1795cc&point=c9d1d9" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
 
-### 💪 Sigma Stack
+### My Languages and Tools
 
 <div align="center" style="display:inline_block;">
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -26,10 +27,4 @@
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=1795CC&center=true&vCenter=true&width=500&lines=Sigma+Grindset+%F0%9F%94%A5;Never+Stop+Building+%F0%9F%9A%80;Code.+Learn.+Conquer.+%F0%9F%91%91" alt="Sigma Typing" />
 </div>
