@@ -10,21 +10,15 @@
     <img src="https://i.imgflip.com/9wm6h8.gif" height="180" />
   </div>
   
-  <!-- NOVO: Gráfico de atividades -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiRezze&theme=nord&hide_border=true&area=true&bg_color=0d1117&color=1795cc&line=1795cc&point=c9d1d9" width="100%" alt="Activity Graph" />
-</div>
 
 <div align="center">
 
-### My Languages and Tools
+### My Languages and tools
 
 <div align="center" style="display:inline_block;">
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+
+[![lang](https://skillicons.dev/icons?i=ts,cpp,c,dotnet,react,tailwind,flutter)](https://skillicons.dev)
+
 </div>
 
 </div>
